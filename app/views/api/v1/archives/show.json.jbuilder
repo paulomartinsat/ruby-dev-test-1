@@ -1,0 +1,1 @@
+json.archive @archive, partial: "api/v1/archives/archive", as: :archive
